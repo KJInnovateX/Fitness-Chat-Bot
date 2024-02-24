@@ -33,6 +33,5 @@ def api():
     else :
         return 'Failed to Generate response!'
     
-
-if __name__=='__main__':
-    app.run()
+# if __name__=='__main__':
+#    app.run()
